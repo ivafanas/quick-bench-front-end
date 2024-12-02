@@ -630,8 +630,8 @@ BENCHMARK(StringCopy);
               colors={
                 Array [
                   Array [
-                    "#005bbb",
-                    "#ffd500",
+                    "#5ed9cd",
+                    "#f5b5c0",
                   ],
                 ]
               }
@@ -1081,8 +1081,8 @@ BENCHMARK(StringCopy);
               colors={
                 Array [
                   Array [
-                    "#005bbb",
-                    "#ffd500",
+                    "#5ed9cd",
+                    "#f5b5c0",
                   ],
                 ]
               }

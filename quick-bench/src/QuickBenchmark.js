@@ -39,13 +39,13 @@ const includeStr = '#include <benchmark/benchmark.h>\n';
 const mainStr = '\nBENCHMARK_MAIN();';
 
 const PALETTE = [
-    "#005bbb",
+    "#5ed9cd",
     "#61d6eb",
     "#a1caf4",
     "#c7c0f4",
     "#eab3f4",
     "#f5b3d9",
-    "#ffd500",
+    "#f5b5c0",
     "#f6b8a0",
     "#edc058",
     "#c4ce58",
